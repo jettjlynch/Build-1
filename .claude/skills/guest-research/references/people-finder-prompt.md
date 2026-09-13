@@ -26,6 +26,21 @@ Do not duplicate a person already listed in the existing people.md — extend
 the list, don't restate entries. If you'd add nothing new to an existing
 entry, leave it alone.
 
+**Mandatory non-industry check (added 2026-09-13, non-negotiable).** Every
+run must explicitly attempt to identify at least one contact who is NOT
+already a wrestling, law, or media-industry figure — a non-industry
+classmate, a family member beyond whichever sibling may already be listed,
+a neighbor, a childhood friend from outside any professional context,
+anyone from before the guest had a career worth writing about. This is
+a required attempt, not a required success. Actually search for this —
+school-era sources, hometown-adjacent leads, anything in the dossier that
+predates the guest's career — before concluding there's nothing. If, after
+a real attempt, you still can't find one, say so explicitly in your output
+as "attempted, none found," with a one-line account of what you tried. Do
+not silently drop this requirement, and do not pad the list with another
+industry contact and call it satisfied — an admitted gap is the honest
+result if that's what a real attempt turns up.
+
 For each person you add, give:
 1. Who they are (name, role, how they connect to the guest).
 2. Why they'd know something the guest's own dossier doesn't already have —
