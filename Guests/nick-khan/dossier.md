@@ -13,22 +13,22 @@ WWE President (since Aug 2020); before that, Co-Head of Television at CAA; befor
 
 ## Candidate Facts (score order, descending)
 
-### 1. Score 10/12 — Childhood friendship with Dwayne "The Rock" Johnson in Honolulu
+### 1. Score 9/12 (was 10/12 — see 2026-09-13 correction below) — Childhood friendship with Dwayne "The Rock" Johnson in Honolulu
 **Fact:** In the mid-1980s, Nick Khan, his sister Nahnatchka Khan, and Dwayne "The Rock" Johnson ran around together as kids in Honolulu, Hawaii, roughly once a month, whenever The Rock's grandmother — wrestling promoter Lia Maivia — staged her local pro-wrestling shows. Johnson has confirmed this publicly himself.
 - Obscurity: **1** — in major profiles (Wrestling Inc, 411Mania, Cultaholic, WhatCulture, ComicBook.com, Sportskeeda all ran versions of it after Dec 2021), not on Khan's front-page bio, but not hard to find either.
 - Era: **3** — pre-fame, childhood, mid-1980s, well before either man was known for anything.
 - Specificity: **3** — named place (Honolulu), named promoter (Lia Maivia), named third sibling present (Nahnatchka), a recurring monthly event, not a vague "they knew each other as kids."
-- Verification: **3** — primary: Dwayne Johnson stated this himself (Instagram, Dec 2021), which is "the person on record." Corroborated by half a dozen independent outlets repeating his statement.
-- **Total: 10/12.** Hard rules: public, given consensually by Johnson about his own life. Passes both.
+- Verification: **2** (was scored 3 on 2026-09-12; capped to 2 on 2026-09-13 — see correction note below. Nobody has actually fetched and read a primary source for Johnson's statement; every source here is a search-engine paraphrase of it, however consistently repeated.) — Dwayne Johnson stated this himself (Instagram, Dec 2021); repeated by half a dozen outlets, none of which this pipeline has directly fetched.
+- **Total: 9/12.** Hard rules: public, given consensually by Johnson about his own life. Passes both.
 - Source: Wrestling Inc, "The Rock Recalls His Childhood Friendship With WWE President Nick Khan" (wrestlinginc.com); corroborated by 411Mania, Cultaholic, WhatCulture, ComicBook.com, Sportskeeda. Fetched 2026-09-12.
 
-### 2. Score 10/12 — WrestleMania IX usher, age 18, UNLV freshman
+### 2. Score 9/12 (was 10/12 — see 2026-09-13 correction below) — WrestleMania IX usher, age 18, UNLV freshman
 **Fact:** Khan worked WrestleMania IX (Caesars Palace, Las Vegas, April 1993) as an usher — a UNLV freshman who'd just turned 18, he took the job after seeing a flier on a job-board wall in the student union. It paid $7/hour when minimum wage was $4.25. He wore a green Caesars Palace polo and, by his own admission, wasn't very good at it ("would take people to the wrong seats"). Archival WWE broadcast footage shows him on camera, walking behind ring announcer Howard Finkel. WrestleMania 41 (2025) returned to Las Vegas for the first time since — with Khan now WWE President.
 - Obscurity: **1** — covered by the Las Vegas Review-Journal (his hometown paper) and multiple wrestling trade outlets after Triple H referenced the archival clip on-air; not obscure anymore, but wasn't a headline fact before that.
 - Era: **3** — pre-fame, freshman year of college, first job in the industry, 32 years before the role that makes it a story.
 - Specificity: **3** — named event, exact pay rate vs. minimum wage, named article of clothing, a self-deprecating direct quote, a specific "full circle" callback (WM41 in Vegas).
-- Verification: **3** — primary artifact exists: actual WWE archival broadcast footage of him working the event, plus his own on-record quotes.
-- **Total: 10/12.** Hard rules: public, self-disclosed and broadcast-archived. Passes both.
+- Verification: **2** (was scored 3 on 2026-09-12; capped to 2 on 2026-09-13 — see correction note below. The archival WWE footage described here has never actually been watched by any agent in this pipeline — its existence is reported by secondary outlets, which is real corroboration, but not the same as this pipeline having inspected "the actual clipping.") — reported to exist by Review-Journal and multiple wrestling outlets, consistently, with no contradictions.
+- **Total: 9/12.** Hard rules: public, self-disclosed and broadcast-archived. Passes both.
 - Source: Las Vegas Review-Journal, "Las Vegan's journey from WrestleMania 9 usher to WWE president" (reviewjournal.com); corroborated by Wrestling Inc, 411Mania, PWMania, Pro Football Network coverage of Triple H's on-air comments. Fetched 2026-09-12.
 
 ### 3. Score 9/12 — The Iron Sheik was the Khan household's hero, not villain
@@ -183,3 +183,13 @@ The Verifier caught something more serious on a second fact: a claim that a CA B
 **Why not 3, and which Sweepers underperformed:** Obscurity=3 requires "found via archive, print, or a person," and the two Sweepers built specifically to reach that tier — (d) archive.org and (g) book acknowledgements — were both **completely blocked by this environment's network egress policy before they could attempt their mandate at all.** That's not a prompting failure; both agents used exactly the right tools and were refused at the network layer. (c)'s target archives were similarly blocked. (f) technically produced a hit, but the identity-resolution claim built on it didn't survive adversarial check — the honest read is that (f) also couldn't really do its job here, it just looked like it briefly could. The two Sweepers that worked as designed — (b) and (h) — both used techniques that don't depend on any blocked domain (ordinary web search, just aimed at a different target: an institution, or a different person's own interview), which is exactly why they're the ones that produced real, verified results.
 
 **The bigger structural finding, bigger than any single Obscurity score:** the independent Verifier pointed out that *no agent in this entire pipeline has actually fetched and read a full source page* for any fact scored this run — WebFetch was blocked on every single domain attempted (news sites, the state bar registry, Variety, Deadline, Wikipedia, archive.org). Every Verification score in this file rests on a search engine's paraphrase of a source, not a directly-inspected "actual clipping" — which is a real gap against the guardrail that every fact should be traceable back on air if challenged. That gap is also exactly how the near-miss on the CA Bar/WWE-address fact happened. Fixing this — getting real WebFetch access to ordinary news domains, not just the more exotic archive/book-search ones — should be a higher priority for M3 than adding new Sweeper source types.
+
+---
+
+## Retroactive correction — 2026-09-13: Verification cap applied to the whole dossier
+
+Following the WebFetch diagnosis above, the skill's rubric was changed: **no fact may carry Verification=3 unless its source was actually fetched and read by an agent in this session — not just corroborated across search snippets.** Since nothing in this dossier has ever been fetched (confirmed by direct curl testing outside this pipeline — see `SKILL.md`'s Verification axis note), that cap was applied retroactively to every fact already in this file, not just future ones.
+
+**Effect: facts #1 and #2 above (Rock/Honolulu; WrestleMania IX usher) both drop from 10/12 to 9/12.** Their Verification scores are corrected in place above, with an inline note on each rather than a silent edit. Every other fact in this dossier was already at Verification ≤2, so nothing else changes numerically — but the *reason* nothing else changes is itself informative: this dossier was already, structurally, only ever as good as a search engine's paraphrase of its sources, on every single fact, from M1 through M2. The cap didn't lower the bar; it made an already-true limitation visible in the score instead of leaving it as prose caveats scattered through this file.
+
+**As of this correction, nothing in the Nick Khan dossier clears the ≥10 hero-fact bar.** The two facts that did are now at 9/12. This is the honest current state: real, well-corroborated, usable supporting facts — five of them at 7–9/12 — and no hero fact yet. That was already close to true; this just stopped hedging about it.

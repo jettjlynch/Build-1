@@ -31,6 +31,16 @@ date, gathered by eight Sweeper agents (one per source type). Your job:
    source. 2 = two independent sources. 3 = primary artifact exists (the
    actual clipping, the actual record, the person on record).
 
+   VERIFICATION CAP: before assigning a 3, ask whether you or any Sweeper
+   in this run actually fetched and read the cited source directly (the
+   full page, or an archived snapshot) — not just a search engine's
+   snippet/paraphrase of it. If nobody actually read it, the fact is
+   capped at Verification 2, full stop, no matter how many independent
+   outlets appear to agree in search snippets. Corroboration across
+   snippets is not the same as anyone having actually seen the source,
+   and a Sweeper's own notes usually say plainly whether it fetched a
+   page or only searched — check that before scoring, don't assume.
+
    For Obscurity specifically: judge it by how the Sweeper actually found
    the fact, not by how well-known the fact seems in general. A fact a
    Sweeper reached only via an archived snapshot, a registry filing, or a

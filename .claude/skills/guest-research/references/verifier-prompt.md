@@ -39,6 +39,17 @@ For each fact you're given:
    about someone other than the guest. If you find a hard-rule problem the
    Scorer missed, the fact is rejected regardless of its score.
 
+5. Enforce the Verification cap. A fact may not carry Verification=3 unless
+   you can confirm someone in this pipeline actually fetched and read the
+   cited source directly (the full page, or an archived snapshot) — not a
+   search engine's paraphrase of it. If the Scorer gave a fact a 3 and
+   nothing in the record shows an actual fetch, correct it to 2 yourself
+   and say so plainly — this is exactly the kind of overclaim you exist to
+   catch, not a minor technicality. If you have working WebFetch access
+   and can fetch the source yourself as part of verifying it, do so — a
+   successful fetch during your own pass is what actually lifts the cap
+   for that fact, not a promise that one happened earlier.
+
 Then mark each fact exactly one of:
 
 - VERIFIED — you found genuine independent corroboration (a second real
