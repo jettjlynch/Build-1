@@ -87,6 +87,16 @@ Creates the standing dossier for a new guest before any booking exists. This is 
 3. Hand-research a first pass of candidate facts (no agents at M1 — see build plan §1 milestone note: this step exists to test whether the rubric and source list actually work before automating either). Score every candidate against the rubric above, including ones that don't clear the bar — a rejected fact with its score and reasoning is useful data for later sweeper design, and the dossier's job is to hold everything found, not just what's usable.
 4. Do not fabricate a source or a fetch date. If a fact can only be traced to a low-quality aggregator or an unconfirmed claim, say so in the dossier rather than dressing it up as a clean source — that honesty is what the Verification axis and the UNVERIFIED tag exist for.
 
+### `refer <name> --from <source-guest-slug>` — implemented (M6)
+
+The referral loop from the build plan's "who's next?" close (§3, §5). Not tied to a real recorded episode yet — nothing is booked for any guest in this repo — so this exists as a standalone command any future step can call: a real post-episode log once bookings happen, or a manual entry from Jett in the meantime. Never invoked automatically by anything in this skill today.
+
+1. Confirm `Guests/<source-guest-slug>/dossier.md` actually exists — refuse rather than guess if it doesn't. Read its frontmatter.
+2. Run the exact same folder-creation steps as `seed <name>` above (steps 1–2: slugify, create `Guests/<new-guest-slug>/` with all five files/dirs) — `refer` is `seed` with one different frontmatter value, not a separate implementation to keep in sync.
+3. **The one difference:** the new dossier's frontmatter sets `referred_by: <source-guest-slug>` instead of `null`. This field has existed in the schema since M1 but had never once been set to a real value until this milestone — confirm it's an actual YAML value in the new file, not just a comment saying a referral happened.
+4. Append to the *source* guest's own `dossier.md`, under a `## Referrals` heading (create it if this is the source guest's first), one line per referral: who they referred, the new guest's slug, and the date. This makes the chain traceable from either end — forward from the new dossier's `referred_by`, and backward from the source dossier's `## Referrals` list — not just forward. Never overwrite a prior `## Referrals` entry; each call appends one line.
+5. Do not hand-research facts for the new dossier as part of this command — that's `seed` step 3's job (or `sweep`'s pipeline), run separately, whenever someone actually gets to it. `refer` only creates the shell and records the link; it doesn't do the research.
+
 ### `sweep <name>` — implemented (M2)
 
 Grows an existing dossier using the actual Sweeper → Scorer → Verifier pipeline from the build plan (§2), instead of hand research. This is what "standing files that never stop growing" turns into once it's automated — later (M5) it's the same pipeline a scheduled monitor runs weekly, unattended, across every seed-state dossier. Requires a dossier already created by `seed`.
@@ -118,4 +128,4 @@ Weekly, unattended, across every dossier in `state: seed`. Full instructions in 
 
 ## Roadmap (from the build plan, for context — not part of this skill's current behavior)
 
-~~M2 sweep/score/verify~~ (done — see `sweep <name>` above) → ~~M3 people/outreach/artifacts~~ (done — see `sweep <name>` steps 6–8 above) → ~~M4 brief + question architect~~ (done — see `brief <name>` above) → ~~M5 scheduled weekly monitor~~ (done — see "Monitor" above) → M6 automatic referral-loop seeding. Each milestone is a separate build pass; don't reach ahead of the milestone this skill is actually at.
+~~M2 sweep/score/verify~~ (done — see `sweep <name>` above) → ~~M3 people/outreach/artifacts~~ (done — see `sweep <name>` steps 6–8 above) → ~~M4 brief + question architect~~ (done — see `brief <name>` above) → ~~M5 scheduled weekly monitor~~ (done — see "Monitor" above) → ~~M6 referral-loop seeding~~ (done — see `refer <name> --from <slug>` above; not wired to an automatic post-episode trigger yet since no episode has ever been recorded — it's a callable command, not yet an automatic hook). M1–M6 are all built as of 2026-09-13.
