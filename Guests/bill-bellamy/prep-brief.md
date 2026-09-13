@@ -1,13 +1,13 @@
 ---
 name: Bill Bellamy
 state: seed
-generated: 2026-09-13 (regenerated a fourth time, after cross-referencing Jett's own prior research)
+generated: 2026-09-13 (regenerated a fifth time, after closing the fact #5 date question)
 booking: NONE — this brief was generated as the first full end-to-end test of the guest-research skill (M1–M6) against a seed-state dossier, not a confirmed booking.
 ---
 
 # Prep Brief — Bill Bellamy
 
-**Still a hero fact plus five VERIFIED supporting facts — the format the build plan asks for — but two things changed this round that matter more than the count.** First, cross-referencing Jett's own prior Bill Bellamy research (an interview transcript plus separate web research, done via ChatGPT before this pipeline existed) surfaced a real pipeline miss: nobody ever checked whether Bellamy has his own book. He does — "Top Billin': Stories of Laughter, Lessons, and Triumph" (2023) — and it produced two new facts (#19, #20) plus closed part of a known gap on the pre-comedy day-job story (#21), none of which clear the bar, alongside a marriage/family fact (#22) from an equivalent new check on the People-finder side. Both gaps are now fixed in the skill itself, not just patched on this guest. Second, the same cross-reference surfaced a live, unresolved date question on the hero fact itself — flagged below rather than picked one way silently. **Six of twenty-two scored facts are VERIFIED; two clear the ≥10 hero-fact bar.**
+**Still a hero fact plus five VERIFIED supporting facts — the format the build plan asks for.** Cross-referencing Jett's own prior Bill Bellamy research (an interview transcript plus separate web research, done via ChatGPT before this pipeline existed) surfaced a real pipeline miss: nobody ever checked whether Bellamy has his own book. He does — "Top Billin': Stories of Laughter, Lessons, and Triumph" (2023) — and it produced two new facts (#19, #20) plus closed part of a known gap on the pre-comedy day-job story (#21), none of which clear the bar, alongside a marriage/family fact (#22) from an equivalent new check on the People-finder side. Both gaps are now fixed in the skill itself, not just patched on this guest. The same cross-reference also raised, and this round closed, a question about the hero fact's dating — resolved as a likely-fabricated citation in Jett's prior research, not a real second document; the dossier's actual date stands unchanged. **Six of twenty-two scored facts are VERIFIED; two clear the ≥10 hero-fact bar.**
 
 **Guest in one line:** Comedian, actor, and TV host — MTV VJ in the early-to-mid 1990s, Def Comedy Jam-era stand-up, film roles including *Fear*, *How to Be a Player*, and *Any Given Sunday*.
 
@@ -21,7 +21,7 @@ Two facts clear the ≥10 bar, both from the same fetched article. **Leading wit
 
 **Fact (10/12 — Obscurity 2, Era 2, Specificity 3, Verification 3 — VERIFIED):** A January 22, 1994 interview (N.F. Mendoza / Los Angeles Times, syndicated in the Roanoke Times, Spectator section, p. S-19) covering Bellamy's MTV Jams debut. He calls his rise "fun and quick" and jokes self-deprecatingly about his own audition: *"It was like, 'He can read the TelePrompTer!'"*
 
-**Read before using this fact on air: an unresolved date question.** Jett's own prior research cites what it describes as a separate LA Times piece by the same byline, dated January 2, 1994 — three weeks before the January 22 date this fact has been scored against. Four independent searches this round could not locate that January 2 source or confirm it exists as a distinct document; everything found points back to the same January 22 Roanoke Times syndication. Three explanations remain genuinely open (a syndication-lag dating, not a contradiction; a second, distinct Mendoza piece; or a transcription error) — none adjudicated here. The fact's score and VERIFIED status stand, since the January 22 article's own content is independently, repeatedly confirmed — but this is now `relay-request.md`'s top-priority item, and it should be resolved before this fact anchors an on-air interview. Full accounting in `dossier.md` fact #5.
+**A prior date question is now closed, not open.** Jett's own prior research had cited a separate LA Times piece by the same byline, dated January 2, 1994. Jett's direct-fetch attempt found it blocked by latimes.com's own site policy, and the Wayback Machine shows zero snapshots ever recorded for that URL — combined with four independent searches this session that also came back empty, the citation is logged as unverifiable by every method tried, consistent with a fabricated citation (a documented ChatGPT failure mode for LA Times archive slugs) rather than a real second document. The fact's score and VERIFIED status stand; the January 22, 1994 date is the dossier's one confirmed date for this piece. Full accounting in `dossier.md` fact #5.
 
 **Artifact:** No candidate in `artifacts.md` was scored a confirmed 3, including the object tied to this exact fact (the Roanoke Times page itself) — it was built and scored *before* this fact was verified, so it's worth a second look now. Not re-run as part of this update.
 
@@ -45,7 +45,7 @@ Two facts clear the ≥10 bar, both from the same fetched article. **Leading wit
 
 ## Relay request — what's still open
 
-Four items this round — see **`Guests/bill-bellamy/relay-request.md`**, each labeled `fetchable` (a real, complete URL exists) or `search-required` (needs a human to run a query, not just pull a link). Top priority is new this round: the hero fact's unresolved date question. Then, for the first time, a genuinely `fetchable` item — the Encyclopedia.com page behind the new tobacco-company fact (#21) — followed by the CA registry entity search and the Baltimore Sun headlines, both `search-required` as before.
+Four items, ranked in **`Guests/bill-bellamy/relay-request.md`**, each labeled `fetchable` (a real, complete URL exists) or `search-required` (needs a human to run a query, not just pull a link). The hero fact's date question is off this list now — closed, not open. Top of the list instead: two genuinely `fetchable` items, the Encyclopedia.com page behind the tobacco-company fact (#21) and the likely-original press hit behind the "booty call" origin story (#19) — followed by the CA registry entity search and the Baltimore Sun headlines, both `search-required`.
 
 ---
 
@@ -67,7 +67,7 @@ Four items this round — see **`Guests/bill-bellamy/relay-request.md`**, each l
 2. **Rutgers (9/12, VERIFIED — opener).** "You've told the story of getting your start doing stand-up at Rutgers — the RAC, Livingston Gym, calling yourself 'the Rutgers comedian.' What actually got you on stage there the first time?" *(Sequencing note, unchanged: the build plan calls for the first scored fact to be mid-tier, 7–8. No currently-VERIFIED fact sits in that band. Fact #1 is used here as the best available opener in spirit rather than by the letter of the rule.)*
 3. **Seton Hall Prep (9/12, VERIFIED).** "Before Rutgers, you were at Seton Hall Prep, Class of '83. Was comedy already on your mind back then, or did that come later?"
 4. **Wall Street plan (9/12, VERIFIED).** "There's a 1994 interview where you talk about having planned a Wall Street career before comedy pulled you away. What was that plan, really — and who were the friends who kept telling you to do this instead?"
-5. **Hero fact (10/12, VERIFIED — middle of the arc).** "In that same interview, you joke about your own MTV Jams audition — 'He can read the TelePrompTer!' Is that really how green you felt walking into that job?" *(See the date-question flag above — resolve before using this fact on air.)*
+5. **Hero fact (10/12, VERIFIED — middle of the arc).** "In that same interview, you joke about your own MTV Jams audition — 'He can read the TelePrompTer!' Is that really how green you felt walking into that job?"
 6. **First stand-up, sorority pageant (10/12, VERIFIED — late-arc beat).** "You've said your actual first time on stage, ever, was at a college sorority pageant. What made you say yes to that, and did you have any idea it would turn into a career?"
 7. **Salon/Daly, someone else's POV (9/12, VERIFIED — pre-close).** "Carson Daly's told a story about people mixing the two of you up early on — 'You're MTV's Bill Bellamy!' Did you feel like you two were actually in competition back then, or was it more good-natured than that?"
 8. **Close (mandatory referral ask).** "Last thing — who should I be talking to next?"
