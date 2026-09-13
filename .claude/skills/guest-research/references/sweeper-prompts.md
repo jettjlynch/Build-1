@@ -109,7 +109,13 @@ Specific instructions:
 
 ## (g) Book acknowledgements Sweeper
 
-**Source type mandate:** acknowledgements sections of books that mention {{GUEST_NAME}} — not books about them, but books where they're thanked or named in passing by someone else.
+**Mandatory first step, before anything else (added 2026-09-13 — a real miss on Bill Bellamy's run): does {{GUEST_NAME}} have their own book or memoir?** This is a distinct check from the passing-mention search below, and it is not optional. A guest's own book is a first-person primary source, not a passing mention, and it does not get caught by the rest of this Sweeper's mandate — a whole memoir ("Top Billin': Stories of Laughter, Lessons, and Triumph," Bill Bellamy's 2023 memoir, was missed entirely on this dossier's first sweep) is not "the guest thanked in someone else's acknowledgements," so a Sweeper only looking for that will walk right past it.
+- Search directly for "{{GUEST_NAME}} book," "{{GUEST_NAME}} memoir," and "{{GUEST_NAME}} autobiography" before doing anything else in this source type.
+- If a book exists, actively search for: excerpts (publisher-released or otherwise), professional reviews that quote passages (Kirkus, Publishers Weekly, Goodreads, trade/industry press), and interview coverage promoting the book where the guest discusses its contents. Score whatever surfaces through the normal rubric — a reviewer's quoted passage from the guest's own book is a real, scorable source, not just evidence the book exists.
+- Report the book's existence even if no quotable content surfaces — "{{GUEST_NAME}} published a memoir in {{YEAR}}, but no excerpt or review-quoted passage was found" is a valid, honest result, and still belongs in `sources.md` as a flagged gap for a future pass, not silently dropped.
+- Only after this check is done does the Sweeper move to its original mandate below.
+
+**Original source type mandate:** acknowledgements sections of *other people's* books that mention {{GUEST_NAME}} — not books about them, but books where they're thanked or named in passing by someone else.
 
 Specific instructions:
 - Use book-search tools (Google Books, a library catalog, or similar) to search *inside* books for the guest's name, filtering toward acknowledgements/thanks sections specifically rather than the book's index or body chapters.

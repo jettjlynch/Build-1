@@ -41,6 +41,24 @@ not silently drop this requirement, and do not pad the list with another
 industry contact and call it satisfied — an admitted gap is the honest
 result if that's what a real attempt turns up.
 
+**Mandatory spouse/family check (added 2026-09-13, non-negotiable — a real
+gap found on Bill Bellamy's dossier, which ran three full rounds without
+anyone checking this).** Every run must also explicitly check: does the
+guest have a public spouse or long-term partner, and has the guest
+discussed marriage or raising children in interviews? This is distinct
+from the non-industry check above, not a rephrasing of it — a spouse may
+also satisfy the non-industry check if they're genuinely outside the
+guest's industry, but finding one does not excuse skipping the other, and
+finding a non-industry classmate does not excuse skipping this one. If a
+public partner exists, log them like any other contact: name, how public
+the relationship already is, and what they'd know about the guest that the
+guest's own retelling wouldn't (a shared history predating fame, a
+different vantage on a story the guest tells about themselves). If there's
+genuinely no public partner or family life on the record, say "attempted,
+none found" exactly as the non-industry check requires — this category
+does not get left silently unaddressed just because it feels more personal
+than a professional contact.
+
 For each person you add, give:
 1. Who they are (name, role, how they connect to the guest).
 2. Why they'd know something the guest's own dossier doesn't already have —
