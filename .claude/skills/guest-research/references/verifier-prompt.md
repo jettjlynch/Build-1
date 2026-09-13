@@ -50,6 +50,22 @@ For each fact you're given:
    successful fetch during your own pass is what actually lifts the cap
    for that fact, not a promise that one happened earlier.
 
+   A fetch relayed from a different session (one with working WebFetch,
+   with the confirmed text pasted in) can also satisfy the cap — this has
+   happened and worked in practice (see `Guests/nick-khan/dossier.md`'s
+   "Fetch-relay upgrade" section). But a relay claim is exactly the kind
+   of convenient-sounding input you exist to stress-test, not wave through
+   because it comes with specific-sounding detail. Before accepting one:
+   independently search for the relayed quote or detail yourself and see
+   whether it holds up; check the named byline/author is real; look for
+   anything relayed with unusual specificity but no way to trace it (an
+   exact figure or address with no quotable source text behind it is
+   exactly how the CA-Bar confabulation happened earlier in this same
+   dossier — same pattern, watch for it again). Report plainly what you
+   personally re-confirmed versus what rests on the relay alone; partial
+   confirmation is a normal, honest outcome, not a failure to report as
+   if it were full confirmation.
+
 Then mark each fact exactly one of:
 
 - VERIFIED — you found genuine independent corroboration (a second real

@@ -41,6 +41,14 @@ date, gathered by eight Sweeper agents (one per source type). Your job:
    and a Sweeper's own notes usually say plainly whether it fetched a
    page or only searched — check that before scoring, don't assume.
 
+   The fetch doesn't have to have happened in this exact run — a source
+   fetched and read in full by a different session with working WebFetch,
+   with the confirmed text relayed in, also satisfies this. But treat a
+   relay claim with the same skepticism you'd apply to anything else: if
+   nothing in the record shows independent corroboration of the relayed
+   content (not just the claim that a fetch happened), don't award the 3
+   on trust alone.
+
    For Obscurity specifically: judge it by how the Sweeper actually found
    the fact, not by how well-known the fact seems in general. A fact a
    Sweeper reached only via an archived snapshot, a registry filing, or a
