@@ -20,6 +20,7 @@ WWE President (since Aug 2020); before that, Co-Head of Television at CAA; befor
 - Specificity: **3** — named place (Honolulu), named promoter (Lia Maivia), named third sibling present (Nahnatchka), a recurring monthly event, not a vague "they knew each other as kids."
 - Verification: **3** — fetched and read in full by a separate session with unrestricted WebFetch (not this one), confirmed to Wrestling Inc, byline Kellie Haulotte, published 11 Dec 2021, sourced to The Rock's own Instagram post. This session independently corroborated the byline, date, and content via its own WebSearch before accepting the upgrade — see the fetch-relay note at the end of this file for exactly what was and wasn't independently confirmed.
 - **Total: 10/12 by my scoring (11/12 if Obscurity is taken as 2, per the instruction I'm flagging above).** Hard rules: public, given consensually by Johnson about his own life. Passes both. **First fact in this dossier confirmed via a real, directly-read primary source rather than search-snippet paraphrase.**
+- **Career payoff: YES** (added 2026-09-13) — the fact is written up, including in Johnson's own Instagram post, as the setup for "and forty years later Nick runs WWE and Nahnatchka runs Young Rock." The raw childhood scene has no inherent professional logic; the significance recorded here does.
 - Source: Wrestling Inc, "The Rock Recalls His Childhood Friendship With WWE President Nick Khan" (wrestlinginc.com/news/2021/12/the-rock-recalls-his-childhood-friendship-with-wwe-president-nick-khan/), Kellie Haulotte, 11 Dec 2021; corroborated by 411Mania, Cultaholic, WhatCulture, ComicBook.com, Sportskeeda. Full-page fetch relayed 2026-09-13; byline/date/content independently re-confirmed via WebSearch the same day.
 
 ### 2. Score 10/12 (fetch-relay upgrade, 2026-09-13 — see note below) — WrestleMania IX usher, age 18, UNLV freshman
@@ -29,6 +30,7 @@ WWE President (since Aug 2020); before that, Co-Head of Television at CAA; befor
 - Specificity: **3** — named event, exact pay rate vs. minimum wage, named article of clothing, a direct quote in his own words, a specific "full circle" callback (WM41 in Vegas).
 - Verification: **3** — fetched and read in full by a separate session with unrestricted WebFetch (not this one), confirmed byline Adam Hill, reviewjournal.com. This session independently corroborated Adam Hill as a real, current Review-Journal sports journalist and confirmed the article's existence and general content via its own WebSearch (including the Cafe Michelle detail above, which wasn't even in the relayed text) — but did not itself independently re-surface the exact quote wording via search, so that specific quote's verbatim accuracy rests on the relay, not a second independent confirmation. Noted plainly rather than claimed as fully double-sourced.
 - **Total: 10/12.** Hard rules: public, self-disclosed and broadcast-archived. Passes both.
+- **Career payoff: YES** (added 2026-09-13) — explicit "full circle" framing (ushered the show as a nobody, now runs the company). No version of this fact is told without that arc attached.
 - Source: Las Vegas Review-Journal, "Las Vegan's journey from WrestleMania 9 usher to WWE president" (reviewjournal.com/sports/las-vegans-journey-from-wrestlemania-9-usher-to-wwe-president-3353637/), byline Adam Hill; corroborated by Wrestling Inc, 411Mania, PWMania, Pro Football Network coverage of Triple H's on-air comments. Full-page fetch relayed 2026-09-13; byline and general content independently re-confirmed via WebSearch the same day.
 
 ### 3. Score 6/12 (was 9/12 — corrected 2026-09-13, source misattribution caught) — The Iron Sheik was the Khan household's hero, not villain
@@ -39,6 +41,7 @@ WWE President (since Aug 2020); before that, Co-Head of Television at CAA; befor
 - Specificity: **3** — a specific family ritual (uncle taping broadcasts, Saturday viewing), a specific reason (shared accent/representation), not just "he liked wrestling as a kid."
 - Verification: **0** (down from 2) — the source this dossier cited for "Nahnatchka's own on-record account" turns out to be someone else (an actor) talking about her secondhand. That's not "a single reputable source" for the claim as stated, it's a mischaracterized source — closer to no confirmed primary source at all until the Variety lead is checked.
 - **Total: 6/12. Below the usability bar — do not use in a brief until re-sourced.** Hard rules: still passes both (public, no private-life content about a third party) — this is a sourcing-accuracy problem, not a hard-rule problem.
+- **Career payoff: NO** (added 2026-09-13) — idolizing a wrestler because he shared their ethnic background is pure identity/family formation. Nothing about it explains or foreshadows Khan's professional rise; it stands on its own. (Unaffected by the sourcing problem above — the payoff tag and the usability flag are independent judgments.)
 - Source (as originally, now flagged unreliable): Filmhounds Magazine, "The FH Interview" — actually an interview with Brett Azar about Nahnatchka Khan, not Nahnatchka Khan herself; corroborated only by Wrestling Inc's "Facts About WWE Co-CEO Nick Khan Only Hardcore Fans Know," which appears to have made the same attribution error or copied it. **Unconfirmed lead for the real source:** a Variety feature, Feb 2021, possibly Nahnatchka Khan's own words — not fetched, byline not confirmed, flagged for a future Sweeper/Verifier pass rather than assumed correct.
 
 ### 4. Score 9/12 — Wheel of Fortune winnings paid for his bar-exam prep
@@ -48,6 +51,7 @@ WWE President (since Aug 2020); before that, Co-Head of Television at CAA; befor
 - Specificity: **3** — named game show, a specific dollar figure, a direct stated causal link to a specific outcome (passing the bar).
 - Verification: **2** — self-reported by Khan on a podcast, corroborated by two independent secondary write-ups, but no independent documentation of the exact dollar figure — self-report only, no outside confirmation.
 - **Total: 9/12.** Hard rules: public and self-disclosed. Passes both.
+- **Career payoff: YES** (added 2026-09-13) — the fact's entire recorded significance is causal: the prize money funded the bar-review course that got him licensed, which is the precondition for everything after.
 - Source: SEScoops, "How Wheel of Fortune and Manny Pacquiao Made Nick Khan WWE President" (sescoops.com, summarizing his IMPAULSIVE podcast appearance); corroborated by Yahoo Entertainment and Wrestlezone. Fetched 2026-09-12 (search summary — SEScoops itself was unreachable this session; another direct-fetch follow-up for M2).
 
 ### 5. Score 9/12 — Met Manny Pacquiao, then a total unknown, in a Hollywood motel room
@@ -57,6 +61,7 @@ WWE President (since Aug 2020); before that, Co-Head of Television at CAA; befor
 - Specificity: **3** — named hotel, named trainer, a specific direct quote, a specific case (assault, retail store) that led to it.
 - Verification: **2** — self-reported by Khan on two separate podcast appearances (repetition across two independent tellings is meaningfully more reliable than one), but still self-report — no court record or third-party confirmation found this pass.
 - **Total: 9/12.** Hard rules: public, self-disclosed. Passes both — note this is about Khan's own client relationship and professional history, not private information about Roach or Pacquiao.
+- **Career payoff: YES** (added 2026-09-13) — this is the literal origin story of his agent career; there's no version of this fact that isn't about how his professional path began.
 - Source: SEScoops (sescoops.com); The Sporting Tribune, "Nick Khan recounts Manny Pacquiao story... on Stephanie McMahon's podcast" (thesportingtribune.com). Fetched 2026-09-12 (search summaries only; SEScoops direct fetch blocked this session).
 
 ### 6. Score 7/12 — Ran ICM's Sports Media division starting 2006
@@ -66,6 +71,7 @@ WWE President (since Aug 2020); before that, Co-Head of Television at CAA; befor
 - Specificity: **2** — named company, named year, named function, but no single dated scene or anecdote.
 - Verification: **2** — two independent reputable sources (Hollywood Reporter; corroborated by itrwrestling and thesportster summaries).
 - **Total: 7/12.** Clears the ≥7 usability bar; not hero-fact material. Hard rules: passes both (public professional history).
+- **Career payoff: YES** (added 2026-09-13) — a career milestone by definition; no non-professional reading of it exists.
 - Source: The Hollywood Reporter, "WWE Names Former CAA Co-Head of TV Nick Khan as President" (hollywoodreporter.com); corroborated by itrwrestling.com, thesportster.com. Fetched 2026-09-12.
 
 ### 7. Score 7/12 — Negotiated against WWE for years before WWE hired him
@@ -75,6 +81,7 @@ WWE President (since Aug 2020); before that, Co-Head of Television at CAA; befor
 - Specificity: **2** — named role, named companies, a clear timeframe, but not one single dated scene.
 - Verification: **2** — two independent reputable sources.
 - **Total: 7/12.** Clears the ≥7 bar. Hard rules: passes both.
+- **Career payoff: YES** (added 2026-09-13) — describes a professional negotiating position; no reading of this fact is non-career.
 - Source: The Hollywood Reporter (hollywoodreporter.com); corroborated by itrwrestling.com. Fetched 2026-09-12.
 
 ### 8. Score 7/12 — Iranian immigrant family, raised in Las Vegas, Bonanza High School
@@ -84,6 +91,7 @@ WWE President (since Aug 2020); before that, Co-Head of Television at CAA; befor
 - Specificity: **2** — named city, named ethnicity/background, named high school — but no single anecdote attached.
 - Verification: **1** — **flagged low-confidence.** The Bonanza High School detail in particular only turned up on SEO-style aggregator sites (wikibiography.in, newsunzip.com, wealthypeeps.com) that tend to copy each other rather than independently source claims. I could not confirm it via a single outlet I'd call reputable. Treat as **UNVERIFIED** until an M2 sweeper (or a direct call to UNLV/Bonanza alumni records) confirms it independently.
 - **Total: 7/12** as scored, but the Verification score is doing a lot of work here and I don't fully trust it — see note above. **Do not use the "Bonanza High School" detail in a brief until re-verified.** The broader "Iranian immigrant family, raised in Las Vegas" framing is corroborated by higher-quality sources (itrwrestling.com, thesportster.com) and is safer to use on its own.
+- **Career payoff: NO** (added 2026-09-13) — where he's from, his family's background, and what high school he attended carry no professional-success logic on their own. This is one of the few facts in the whole dossier that stands entirely on its own.
 - Source: wikibiography.in, newsunzip.com, wealthypeeps.com (low confidence — aggregator cluster); broader framing corroborated by itrwrestling.com, thesportster.com. Fetched 2026-09-12.
 
 ### 9. Score 6/12 — Served briefly as Manny Pacquiao's co-manager
@@ -93,6 +101,7 @@ WWE President (since Aug 2020); before that, Co-Head of Television at CAA; befor
 - Specificity: **2** — named role and person, general timeframe, no single dated moment.
 - Verification: **1** — a single tier of reputable secondary coverage; no independent primary confirmation found.
 - **Total: 6/12. Does not clear the ≥7 usability bar.** Kept in the dossier as a data point (per the guardrails: unverified/sub-bar facts stay in the dossier, they just can't enter a brief), and as an honest example of hand-research turning up something real but too thin to use yet.
+- **Career payoff: YES** (added 2026-09-13) — a professional role, full stop.
 - Source: SEScoops (sescoops.com, search summary); general corroboration via search-summarized secondary coverage. Fetched 2026-09-12.
 
 ### 10. Score 6/12 — Father immigrated from Iran "in 1952" — REJECTED, do not use
@@ -102,6 +111,7 @@ WWE President (since Aug 2020); before that, Co-Head of Television at CAA; befor
 - Specificity: **1** — the claim itself is garbled enough that I'm not confident what it's actually asserting.
 - Verification: **0** — single unreliable source, internally inconsistent, no corroboration anywhere else in this pass.
 - **Total: 6/12. Does not clear the bar, and I'd reject this even if it did** — it reads like the kind of thing an aggregator generates/miscopies rather than reports. **Recommendation: an M2 sweeper should re-derive this from a primary interview or drop it entirely rather than inherit it from this dossier.**
+- **Career payoff: NO** (added 2026-09-13) — family immigration history, not professional formation. Moot given the sourcing problem above, but tagged for completeness.
 - Source: wealthypeeps.com, current-affairs.org (low confidence — do not use as-is). Fetched 2026-09-12.
 
 ---
@@ -132,6 +142,7 @@ The Verifier caught something more serious on a second fact: a claim that a CA B
 - Specificity: **3** — named boutique agency, exact timing, exact mechanism (merger), named client roster.
 - Verification: **3** (upgraded 2026-09-13 from 2 — fetch-relay). Fetched and read in full by a separate session with unrestricted WebFetch (not this one): deadline.com/2012/04/icm-tv-agent-nick-khan-headed-to-caa-262593. **This is the strongest-confirmed fact in the dossier** — this session independently re-ran the search afterward (unprompted, as a check) and got back a near-verbatim match to the relayed quote ("joined boutique lit agency Broder Webb Chervin Silbermann at the end of 2005 to launch a sports/news broadcaster division... segued to ICM following the two agencies' merger six months later"), plus the additional Evan Dick detail above which corroborates it's a real, detailed primary article rather than a thin rewrite. Two independent outlets (Deadline directly confirmed; TheWrap's matching account) means this would arguably clear Verification=3 even without the relay.
 - **Total: 10/12 (upgraded from 9/12). Sweeper: (f), surfaced via a California Bar registry search.** Now a hero-fact candidate in its own right, on top of being the single best *find* of the M2 sweep.
+- **Career payoff: YES** (added 2026-09-13) — a career-transition fact by definition; the entire point of recording it is that it explains how he got from law to WWE.
 - Sources: Deadline, "ICM TV Agent Nick Khan Headed To CAA" (deadline.com/2012/04/icm-tv-agent-nick-khan-headed-to-caa-262593); TheWrap, "Nick Khan, Top ICM Sports Broadcasting Agent, Joins CAA" (thewrap.com, 2012). Full-page fetch of the Deadline piece relayed 2026-09-13; independently re-confirmed near-verbatim via this session's own WebSearch the same day.
 
 **Dina Titus — UNLV professor, later U.S. Congresswoman (D-NV).** Nick Khan had Dina Titus, who taught American/Nevada government at UNLV from 1979–2011, as a professor, and has since had a publicly-noted reunion described as "meets with his former teacher."
@@ -140,6 +151,7 @@ The Verifier caught something more serious on a second fact: a claim that a CA B
 - Specificity: **2** — named professor, named institution, no exact semester.
 - Verification: **1** — two outlets (411Mania, eWrestlingNews) both ran this, but the Verifier traced both to what's almost certainly the same single primary source (Titus's own social post) rather than genuinely independent reporting — so this is one primary source relayed twice, not two sources. Capped at 1 accordingly, not 2.
 - **Total: 8/12. Sweeper: (b).** Good People-finder lead for M3: Dina Titus is an actual named, highly reachable public figure (a former Congresswoman) who could speak to Khan's UNLV years directly if contacted.
+- **Career payoff: NO** (added 2026-09-13) — "you had this professor" is biographical texture, not a professional-success explanation. One of the few non-payoff facts in the dossier, and notably one of the lower-scoring ones — see the 2026-09-13 note in the closing M2 assessment on why that's not a coincidence.
 - Sources: 411Mania, "Nick Khan Attends Meetings in Washington, DC & LA This Week, Meets With His Former Teacher"; eWrestlingNews, "WWE CEO Nick Khan Reunites With Former Teacher." Fetched via search 2026-09-13.
 
 **Freddie Roach on flagging Pacquiao's pay to Khan.** Freddie Roach, describing his own long relationship with Manny Pacquiao (not a Khan profile), said: *"At the time, I was concerned for Manny personally, not as a fighter, and so I decided to tell Nick Khan, even though some people thought I overstepped my bounds by doing that"* — recounting a decision to flag that Pacquiao's promoters may have been shortchanging him relative to what TV networks paid for his fights.
@@ -148,6 +160,7 @@ The Verifier caught something more serious on a second fact: a claim that a CA B
 - Specificity: **3** — a specific, named moment, with Roach acknowledging personal risk in doing it.
 - Verification: **1** — the quote itself is confirmed verbatim, but there's genuinely only one original source (SI.com); the "second outlet" is syndication of the same piece, not independent corroboration. Don't let a future pass miscount that as 2.
 - **Total: 7/12. Sweeper: (h).** Corroborates the same underlying anecdote as fact #5 in the M1 section above (Khan's own retelling on two podcasts) — now with an independent narrator (Roach, not Khan) telling the same story from his own side.
+- **Career payoff: YES** (added 2026-09-13) — about Khan's trustworthiness as an emerging agent; the whole point of the story is professional.
 - Source: Sports Illustrated, "Inside Manny Pacquiao's Uncommon Relationship..." (Aug 20, 2021). Fetched via search 2026-09-13; direct fetch blocked.
 
 **Bonanza High School, Las Vegas, class of 1992 — upgrade to M1 fact #8.** Nick Khan graduated from Bonanza High School in 1992. This was previously sourced *only* to a cluster of low-quality SEO aggregators (wikibiography.in, newsunzip.com, wealthypeeps.com) and flagged "do not use until re-verified."
@@ -156,6 +169,7 @@ The Verifier caught something more serious on a second fact: a claim that a CA B
 - Specificity: **2** — named school + graduation year.
 - Verification: **1** — a genuinely independent, reputable, non-aggregator source (Las Vegas Review-Journal, his hometown paper) now confirms this, corroborated further by Wrestling Inc, TheSportingTribune, and Grokipedia with zero contradictions anywhere. Not yet 2 because it's still one primary outlet with others summarizing it, but it moved this fact from **unusable** to **usable**, which is the real result here.
 - **Total: 7/12 (was flagged do-not-use). Sweeper: (b).** M2's clearest example of "fix a specific thing M1 flagged as unreliable" working as intended.
+- **Career payoff: NO** (added 2026-09-13) — same as M1 fact #8: a graduation year carries no professional-success logic by itself.
 - Source: Las Vegas Review-Journal, "WrestleMania 41 a homecoming for WWE president Nick Khan." Fetched via search 2026-09-13; direct fetch blocked.
 
 ### UNVERIFIED — quarantined from any future brief (a wall, not a warning)
@@ -208,3 +222,13 @@ Later the same day, three facts were upgraded to Verification=3 after their sour
 One flagged disagreement, not silently applied: the instruction to re-score the Rock/Honolulu fact raised Obscurity from 1 to 2. I don't think the fetch-relay confirmation changes how *findable* this fact was — Obscurity measures discovery difficulty, and this was equally discoverable via a couple of search queries either way, verified or not. I kept it at 1 (10/12, not 11/12) and said so on the fact itself rather than either silently complying or silently overriding.
 
 **This resolves the OPEN DECISION logged earlier today.** The fetch-relay split works in practice: a session with real web access supplied primary-source content on request, this session independently spot-checked what it could, and three facts moved from capped/search-snippet-only to genuinely verified. The part worth automating next is **not the fetching** — that's already proven to work when done by hand — it's **the hand-off itself**, which right now means a human pasting text between two chat windows. A same-account cross-session messaging path (this environment has tools for messaging other live sessions directly) would let a Sweeper or Verifier agent request a fetch from a fetch-capable sibling session and get a structured response back, instead of routing every fetch through a person. That's the concrete next build item, not "get this environment's own WebFetch unblocked" — though that would still be the simpler fix if it's available.
+
+---
+
+## Career-payoff tagging — 2026-09-13
+
+Every fact in this dossier now carries a career-payoff tag (rubric addition, `SKILL.md`), added after a cold read of the first `prep-brief.md` found every fact in its arc resolved to career logic. Full tally across all 14 facts ever recorded here: **9 carry career payoff, 5 do not** (Iron Sheik; M1's Iranian-family/Bonanza-HS fact and its M2 upgrade, which are really one underlying biographical fact tagged twice; Dina Titus; the rejected father-immigration claim).
+
+The precise, checkable pattern, not just an impression: **among this dossier's 11 usable (≥7) facts, sorted by score, every single fact scoring ≥9 is career-payoff YES. Every non-payoff fact scores ≤8.** That's not a coincidence worth hand-waving past — the best-documented, most-independently-corroborated material in this dossier is disproportionately the material that already has a clean professional narrative attached, probably because career milestones get covered by trade press (which is exactly the kind of source this pipeline is best at finding and verifying), while purely personal, non-career detail tends to live in thinner, harder-to-verify, single-source places — a private social post, a local human-interest aside, a person's own memory. The Dina Titus fact is the clearest example: real, plausible, career-agnostic, and it topped out at 8/12 — one point short of displacing a 9-scoring career fact from the brief's arc.
+
+Practical implication for `brief`'s Question-architect step, not yet acted on: **arc selection currently picks the five highest-scoring supporting facts with no regard for payoff diversity.** Given the pattern above, that will keep producing payoff-heavy arcs by default, not because non-payoff facts don't exist, but because they systematically score lower under this rubric. Whether the Question architect should ever deliberately trade a point or two of score for payoff diversity is a real design question — flagging it here rather than deciding it unilaterally.
