@@ -163,6 +163,20 @@ story he's referenced but never given details on?"
 
 ---
 
+## 6. Kristen Baker Bellamy — wife, actress (mandatory spouse/family check)
+
+**Who:** Bill Bellamy's wife of over two decades — married June 16, 2001, celebrated their 24th anniversary in 2025. An actress in her own right (*Dinner at Tiffani's* 2014, *The Bounce Back* 2016, *The Fix* 2019) and runs her own clothing brand, Kaftans By Kristen Bellamy. They have two children together: Bailey Bellamy (b. 2003) and Baron Bellamy (b. 2006).
+
+**Why she'd know something the dossier doesn't have:** She predates or overlaps with almost none of this dossier's pre-fame material directly (they married in 2001, well after his MTV/stand-up rise), but she is the one person positioned to speak to how the guest talks about his own early career *privately*, versus the polished versions in interviews and his own memoir — the Kirkus review of "Top Billin'" specifically flags the book as "sanitized" on personal-life material, which is exactly the gap a spouse could speak to (with his consent, on his terms — not by drawing her into anything he hasn't already made public himself).
+
+**Public discussion on record:** Bellamy has discussed marriage and family on the record multiple times, not just in passing — two separate Essence pieces ("Bill Bellamy Talks Marriage and Raising Kids" and a birthday/anniversary piece), a 2012 Essence conversation about co-parenting philosophy ("communication and connection... doing things that keep you connected" as the stated secret to the marriage), and recurring anniversary posts covered by entertainment outlets (Atlanta Black Star, Amomama). This is a guest who has voluntarily made his marriage a public, recurring talking point — not a private matter being surfaced by this pipeline for the first time, which keeps this well inside the "public or consensual" hard rule.
+
+**Reachability:** As a working actress with her own branded business, plausibly reachable through normal industry/business channels (a publicist, her clothing brand's own contact channel) — not confirmed directly, but not a hard "no visible profile" gap either.
+
+**What to ask (about Bill, and about their shared life, not a private matter he hasn't already discussed):** "You've been together through his whole post-MTV career — is there a version of his early stand-up-and-tobacco-sales-day-job years that's different from the way he tells it in interviews or in the book?"
+
+**Scored as a dossier fact, below the usability bar:** the marriage/family facts above (wedding date, kids' names and ages, the 2012 Essence quote) are logged as dossier.md fact #22 — Obscurity 0, Era 1, Specificity 2, Verification 2, total 5/12. Genuinely well-corroborated across outlets, but post-fame and not obscure, so it doesn't clear ≥7. Included here anyway because the *existence* of a reachable, willing-to-discuss-it spouse is the real find, independent of whether any single fact about the marriage clears the rubric.
+
 ## Mandatory non-industry check — result: ATTEMPTED, FOUND (Karen Bellamy, above), with real gaps logged alongside
 
 Per the hard requirement, this run made a genuine attempt to find someone
