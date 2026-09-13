@@ -30,3 +30,33 @@ Every URL/person/artifact consulted while seeding this dossier, regardless of wh
 - en.wikipedia.org/wiki/Nahnatchka_Khan — surfaced in search results, not fetched directly.
 - Search for a KNBR / college-radio connection for Nick Khan — returned nothing; this was a hypothesis going in and it didn't pan out. Noted so nobody re-runs the same dead-end search in M2.
 - Freddie Roach assault-case court record — not located this pass; fact #5 rests on Khan's own retelling only. A real court record, if findable, would push that fact's Verification from 2 to 3.
+
+## M2 sweep (2026-09-13) — Sweeper/Scorer/Verifier pipeline run
+
+All 8 Sweepers dispatched; every source below was reached via WebSearch snippet only — **direct WebFetch was blocked by this environment's network egress policy for every single domain attempted this pass**, including ordinary news sites (reviewjournal.com, staradvertiser.com, variety.com, thewrap.com, deadline.com, sports.yahoo.com, wrestlinginc.com, en.wikipedia.org, ewrestlingnews.com, thesportingtribune.com) and every archival/registry tool the Sweepers actually needed (web.archive.org, archive.org, timetravel.mementoweb.org, apps.calbar.ca.gov, nvsos.gov, bizfileonline.sos.ca.gov, books.google.com, babel.hathitrust.org). Treat every fact below as second-hand (search-engine paraphrase) unless a future pass confirms otherwise — see dossier.md's closing M2 assessment for why this matters.
+
+**Used in verified facts:**
+- TheWrap, "Nick Khan, Top ICM Sports Broadcasting Agent, Joins CAA" (2012) — Broder Webb Chervin Silbermann fact
+- Deadline, related 2012 coverage of the same ICM→CAA move — independent corroboration of the above
+- 411Mania, "Nick Khan Attends Meetings in Washington, DC & LA This Week, Meets With His Former Teacher" — Dina Titus fact
+- eWrestlingNews.com, "WWE CEO Nick Khan Reunites With Former Teacher" — same story, likely same primary source (Titus's own post) as 411Mania, not independent
+- Sports Illustrated, "Inside Manny Pacquiao's Uncommon Relationship..." (Aug 20, 2021) — Freddie Roach quote; identified as the original after Yahoo Sports/radio-station versions turned out to be syndications of this piece
+- Las Vegas Review-Journal, "WrestleMania 41 a homecoming for WWE president Nick Khan" — Bonanza HS 1992 grad, upgrading a previously aggregator-only claim
+
+**Flagged UNVERIFIED — do not treat as confirmed:**
+- Honolulu Star-Advertiser, "Co-creator of NBC's 'Young Rock,' Nahnatchka Khan's comedy-writing career started at Kaiser High School" (Apr 10, 2022) — real, indexed article; the specific grandmother/aunts/uncles/Saturday-viewing scene attributed to it could not be confirmed present on independent re-search. Someone needs to actually fetch and read this page before that detail is used anywhere.
+- apps.calbar.ca.gov/attorney/Licensee/Detail/211628 — **possible search-tool confabulation flagged by the Verifier.** A specific address string ("WWE, 707 Washington Blvd, Stamford, CT") appeared in one search pass with no quoted source text behind it, while an earlier pass on the identical question returned only a vague non-answer. This page has never actually been fetched by anyone in this pipeline. Do not repeat this claim as fact in a future pass without a real fetch confirming it. Two separate FindLaw listing IDs (3424665_1 and 3409507_1) for a Beverly Hills "Nicholas Khan" further muddy rather than resolve the underlying identity question.
+
+**Confirmed empty (genuine negative result, not a block):**
+- No pre-August-2020 podcast/interview appearance by Khan found anywhere (Sweeper a)
+- No verifiable personal social media account for Khan found; he's on record (f4wonline.com) saying he doesn't read X/Twitter re: WWE or himself (Sweeper e)
+- RingsideNews.com "burner account" rumor — explicitly rejected under the public/consensual-source hard rule, not merely unverified
+
+**Confirmed structurally blocked — the source type was never actually attempted, not merely unsuccessful:**
+- web.archive.org, archive.org, timetravel.mementoweb.org — 403 on CONNECT, policy-level, confirmed via the proxy status endpoint (Sweeper d)
+- books.google.com, babel.hathitrust.org (HathiTrust), archive.org full-text search — same block class (Sweeper g); one unread lead (a Google Books hit referencing "Larry Merchant and Nick Khan") not pursued
+- newspapers.com, reviewjournal.com (direct search), lasvegassun.com pre-2000s range — blocked or unsearchable that far back (Sweeper c)
+- nvsos.gov, bizfileonline.sos.ca.gov — both Secretary of State entity-search portals blocked for direct query (Sweeper f); the one hit this sweeper produced (CalBar) came from search-engine indexing, not a direct registry query, and is itself flagged above
+
+**Lead for a future sweep, not yet chased:**
+- UNLV Special Collections' digitized Rebel Yell archive (special.library.unlv.edu/rebelyell/) — confirmed to exist and cover 1987–2010 (Khan's likely attendance window), including at least one specific issue in range (Vol. 16, No. 10, dated 1993-02-18). The portal itself could not be searched directly this pass (egress-blocked) and a `site:` search for his name returned nothing — inconclusive, not negative, since OCR/indexing of scanned newspaper archives is often incomplete. Worth a dedicated re-run with actual portal access.
