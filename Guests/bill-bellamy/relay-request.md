@@ -1,53 +1,36 @@
 # Relay Request — Bill Bellamy
 
-Generated 2026-09-13, per `SKILL.md`'s guardrails (a `brief`-mode structured output, not an ad hoc suggestion). Four UNVERIFIED ≥7 facts remain after this dossier's two scoring passes. Below are the **top 4, ranked by leverage** — how much one successful fetch would move each fact, weighed against how likely that fetch is to actually succeed — not by raw score. This is a short list for deciding what's worth a fetch *this round*; the full record of everything consulted, including facts left off this list, is in `sources.md`.
+Regenerated 2026-09-13 (third round), per `SKILL.md`'s guardrails. Two UNVERIFIED ≥7 facts remain (facts #3 and #9 cleared verification this round and are no longer here). **Both remaining items are `search-required`, not `fetchable`** — this round found that neither has a real pull-able URL: fact #7's only URL fragments turned out to be incomplete slugs, and fact #4 is confirmed to sit behind a JS-driven interactive search with no resolvable URL at all. Ranked by leverage as before, but leverage now means something different when nothing here is a simple fetch.
 
 ---
 
-## 1. Fact #3 — Seton Hall Prep, Class of 1983 (currently 9/12, UNVERIFIED)
+## 1. Fact #4 — CA registry filing, "Bill Bellamy Entertainment, Inc." (currently 8/12, UNVERIFIED, HIGH-PRIORITY FLAG)
 
-**Source URL:** `https://en.wikipedia.org/wiki/List_of_Seton_Hall_Preparatory_School_alumni`
+**Category: `search-required`.** `bizfileonline.sos.ca.gov` is a JS-driven interactive search interface — confirmed this round that no static URL exists that a relay session (or anyone) can simply fetch to land on this record. Whoever does this needs to actually open the site and run the search by hand.
 
-**What a fetch would need to confirm:** whether this page's citation for Bill Bellamy is genuinely independent of the Seton Hall Prep admissions Facebook post, or just cites/mirrors that same post. If independent, this fact's Verification axis goes from capped-2 to 3, pushing the total to **10/12 — a third hero-tier fact.**
+**What to search:** entity/document number **3269320** (California General Corporation, filed Jan 4, 2010). Confirm or rule out whether the named officer is the comedian, not a same-name filer — check for any middle name, prior filings, or filing-agent detail the secondary mirrors (bizapedia.com, bizprofile.net) didn't carry.
 
-**Why it ranks #1:** the single highest-leverage item on this list. A public Wikipedia page, no paywall, no login, one specific yes/no question to answer by reading its citation. Closest fact to the hero-fact bar of anything not already VERIFIED.
-
----
-
-## 2. Fact #9 — Salon.com, May 2013, Carson Daly profile (currently 7/12, UNVERIFIED)
-
-**Source URL:** `https://www.salon.com/2013/05/02/the_persistence_of_carson_daly/`
-
-**What a fetch would need to confirm:** whether Daly's line — *"You're MTV's Bill Bellamy!"* — is a verbatim quote in the piece or a paraphrase introduced by the Scorer/search synthesis. If verbatim, Verification goes from 1 to 3, pushing the total to **9/12**, just under hero-tier.
-
-**Why it ranks #2:** Salon's older content is generally not paywalled, so this is a low-friction fetch with a specific, single thing to check (exact wording of one quoted line).
+**Why it ranks #1 despite being the harder ask:** highest stakes on this list — this is the same shape of claim that turned out to be probable confabulation on Nick Khan's CA-Bar fact, so resolving it either way (confirmed or ruled out) matters more than any other open question in this dossier. Ranked above fact #7 on importance, even though it demands more effort (an actual search, not a fetch) than fact #7 would if fact #7's URLs existed.
 
 ---
 
-## 3. Fact #7 — Baltimore Sun, 1994, two VJ-debut pieces (currently 7/12, UNVERIFIED)
+## 2. Fact #7 — Baltimore Sun, 1994, two VJ-debut pieces (currently 7/12, UNVERIFIED)
 
-**Source URLs (as captured by the original Sweeper — full path not independently re-confirmed by this session):**
-- `baltimoresun.com/.../bs-xpm-1994-09-23-1994266152-story.html` ("Comic's gig as MTV veejay jams career into high gear")
-- `baltimoresun.com/.../bs-xpm-1994-07-25-1994206114-story.html` ("MTV Beach House is fun-house heaven")
+**Category: `search-required`.** What this dossier has on file is two archive-format filename slugs, not complete URLs — `bs-xpm-1994-09-23-1994266152-story.html` and `bs-xpm-1994-07-25-1994206114-story.html`. A relay attempt this round confirmed there is nothing actually fetchable with just these fragments. This is now explicitly **not** listed as `fetchable`, having been mislabeled that way in a prior version of this file.
 
-**What a fetch would need to confirm:** actual content and quotes from either piece — right now only the URLs' existence and authentic archive-format are confirmed, not a word of the text. Reading even one in full would move Verification from 1 toward 3, and could raise Specificity if either piece contains a charged quote or scene (currently scored 2 for "named, dated titles" alone). Plausible new total in the 9/12 range depending on what's actually in them.
+**What to search:** the Baltimore Sun's own archive/search (baltimoresun.com, or its syndicated archive host) for either headline — *"Comic's gig as MTV veejay jams career into high gear"* (Sept 23, 1994) or *"MTV Beach House is fun-house heaven"* (July 25, 1994) — to first recover a real, complete URL, then read the piece itself. Confirming either piece's actual content/quotes would move Verification from 1 toward 3.
 
-**Why it ranks #3:** two candidate URLs instead of one raises the odds something is reachable, but the Baltimore Sun's legacy archive has a mixed history on paywalling — lower confidence of success than #1 or #2, and the payoff (Specificity boost) is speculative until the content is actually seen.
+**Why it ranks #2:** real, specific, headline-level search terms exist, and Baltimore Sun's older content isn't uniformly paywalled — a reasonable chance a search turns up a working link. Lower stakes than fact #4, but a more straightforward ask once someone is willing to actually search rather than fetch.
 
 ---
 
-## 4. Fact #4 — CA registry filing, "Bill Bellamy Entertainment, Inc." (currently 8/12, UNVERIFIED, HIGH-PRIORITY FLAG)
+## Resolved this round — no longer on this list
 
-**Source:** `https://bizfileonline.sos.ca.gov` — search entity number **3269320** directly (no stable direct-record URL was found; the general site was robots-blocked on the prior relay attempt).
-
-**What a fetch would need to confirm:** the primary CA Secretary of State record itself — and, critically, anything in it (an officer's full name, an address history, a filing agent) that could confirm or rule out this being *the comedian* rather than a same-name filer. This is the one fact on this list where the ask isn't "read a page" but "find out if the record is even reachable at all."
-
-**Why it ranks #4, despite the highest stakes:** this is explicitly the same shape of claim that turned out to be probable confabulation on the Nick Khan dossier's CA-Bar fact — specific-sounding registry data from secondary mirrors only. Resolving it either way (confirms the comedian, or turns out to be a different Bellamy) matters more than any other item here. But it already failed one relay attempt (robots-blocked), so the odds of a fetch actually succeeding this round are the lowest on this list. Ranked last on leverage, not on importance — worth a second attempt if there's appetite for a harder fetch, not the best use of a single easy one.
-
----
+- **Fact #3 (Seton Hall Prep, 9/12)** — a direct fetch of the Wikipedia alumni page confirmed its citation is a genuinely independent 1994 Charlotte Observer article. Status flipped UNVERIFIED → VERIFIED (see dossier.md). The Charlotte Observer piece itself remains unread and unreachable — if it ever surfaces, this fact could still gain Verification=3, but it's no longer blocked from use as-is.
+- **Fact #9 (Salon/Carson Daly, 7/12 → 9/12)** — a direct fetch confirmed the quote verbatim. VERIFIED.
 
 ## Left off this list, and why
 
-- **Fact #2 (Ray Romano/Rascals opener, 8/12)** — no fetchable URL exists at all. Every version of this story is Bellamy's own self-report across podcast/video appearances; there is no third-party page to relay-request. Resolving this would require reaching Ray Romano or the venue's former owner directly (see `people.md`), not a fetch.
-- **Facts #6, #8, #10–14, #17–18** — already below the ≥7 usability bar (corrected down by the Verifier, or scored low from the start). Not worth a fetch this round regardless of reachability.
-- **The Delta Sigma Theta detail on fact #16** — not on this list because it's already VERIFIED at hero-tier (10/12) without it; that detail is flagged as upside in `dossier.md`/`sources.md`, not a blocker worth a relay slot.
+- **Fact #2 (Ray Romano/Rascals opener, 8/12)** — no source of either kind exists: not `fetchable` (no URL), not `search-required` (no named place to search — every version is Bellamy's own self-report, with no venue-side, Romano-side, or period-press document to look for). Resolving this needs a person (Ray Romano or the venue's former owner — see `people.md`), not a fetch or a search.
+- **Facts #6, #8, #10–14, #17–18** — already below the ≥7 usability bar; not worth relay effort of either kind this round regardless of reachability.
+- **The Delta Sigma Theta detail on fact #16** — not on this list because fact #16 is already VERIFIED at hero-tier without it; flagged as upside in the dossier, not a blocker worth a relay slot.

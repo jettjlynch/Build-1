@@ -1,56 +1,49 @@
 ---
 name: Bill Bellamy
 state: seed
-generated: 2026-09-13 (regenerated after rescoring facts #15/#16 from the same relayed source)
+generated: 2026-09-13 (regenerated a third time, after two more relay results)
 booking: NONE — this brief was generated as the first full end-to-end test of the guest-research skill (M1–M6) against a seed-state dossier, not a confirmed booking.
 ---
 
 # Prep Brief — Bill Bellamy
 
-**Updated again, same day:** the fetch-relay that upgraded fact #5 this morning turned out to carry two more facts already sitting near the bottom of this dossier's score list. Rescoring them against that same primary source — not new research — pushed fact #15 to 9/12 VERIFIED and fact #16 to 10/12 VERIFIED. **This dossier now has four VERIFIED facts, and two clear the ≥10 hero-fact bar.** The build plan calls for a hero fact plus five supporting facts, all VERIFIED — this is still short of five supporting facts, but it now has three, not one, and a real choice of which hero fact to lead with. Four more facts scored ≥7 from the Scorer but remain UNVERIFIED; per the guardrails, an UNVERIFIED tag is a wall, not a warning, so none of them appear below as usable material regardless of their numeric score.
+**This round clears the build plan's format for the first time: a hero fact plus five supporting facts, all VERIFIED.** Two more relay results came in this round — a Wikipedia citation fetch confirmed fact #3's second source is genuinely independent (status flip, no score change), and a direct Salon fetch confirmed fact #9's quote verbatim (7/12 → 9/12). One relay attempt (fact #7, Baltimore Sun) came back a non-result — the URLs on file turned out to be unresolvable slugs, not real links — and fact #4 (CA registry) was confirmed structurally impossible to relay-fetch at all (an interactive search, not a static page). Both stay UNVERIFIED, honestly, not papered over. **Six of eighteen scored facts are now VERIFIED; two clear the ≥10 hero-fact bar.**
 
 **Guest in one line:** Comedian, actor, and TV host — MTV VJ in the early-to-mid 1990s, Def Comedy Jam-era stand-up, film roles including *Fear*, *How to Be a Player*, and *Any Given Sunday*.
 
-**Career-payoff count: 4 of 4 usable facts carry career payoff.** (Dossier-wide across all 18 facts ever scored: 11 yes / 7 no.) Worth naming plainly since it's a clean sweep this time: every fact that survived to VERIFIED status in this dossier resolves to career-success narrative, not one exception — a sharper version of the same pattern first flagged on Nick Khan's brief.
+**Career-payoff count: 5 of 6 usable facts carry career payoff; 1 does not.** Naming the "no" plainly since the last update's clean "every VERIFIED fact is career narrative" read no longer holds: fact #3 (Seton Hall Prep) is payoff=NO — pure school affiliation, no comedy activity documented there — and it just became VERIFIED this round. That's a genuine, if small, counterexample to the pattern flagged on Nick Khan's brief, not a reason to leave it out of the count.
 
 ---
 
 ## Hero fact + artifact + source
 
-**Two facts now clear the ≥10 bar, both from the same single fetched article. Leading with fact #5 as the hero fact** since it has the sharper, more self-contained emotional beat (a single joke, a single moment) that the question-architect sequencing rule calls for; fact #16 is used as a second, near-hero supporting beat below rather than a competing hero, per the arc rule that only one hero fact anchors the middle.
+Two facts clear the ≥10 bar, both from the same fetched article. **Leading with fact #5** for its sharper, self-contained emotional beat; fact #16 is used as a second, near-hero supporting beat later in the arc.
 
-**Fact (10/12 — Obscurity 2, Era 2, Specificity 3, Verification 3 — VERIFIED, clears the ≥10 bar):** A January 22, 1994 interview (N.F. Mendoza / Los Angeles Times, syndicated in the Roanoke Times, Spectator section, p. S-19) covering Bellamy's MTV Jams debut. He calls his rise "fun and quick" and jokes self-deprecatingly about his own audition: *"It was like, 'He can read the TelePrompTer!'"*
+**Fact (10/12 — Obscurity 2, Era 2, Specificity 3, Verification 3 — VERIFIED):** A January 22, 1994 interview (N.F. Mendoza / Los Angeles Times, syndicated in the Roanoke Times, Spectator section, p. S-19) covering Bellamy's MTV Jams debut. He calls his rise "fun and quick" and jokes self-deprecatingly about his own audition: *"It was like, 'He can read the TelePrompTer!'"*
 
-**Artifact:** No candidate in `artifacts.md` was scored a confirmed 3, including the object tied to this exact fact (the Roanoke Times page itself, candidate #4) — it was explicitly built and scored *before* this fact was verified, so it's worth a second look now that the underlying fact has cleared the bar. Re-running the Artifact hunter on the updated dossier is a reasonable next step, not done as part of this update since it wasn't asked for.
+**Artifact:** No candidate in `artifacts.md` was scored a confirmed 3, including the object tied to this exact fact (the Roanoke Times page itself) — it was built and scored *before* this fact was verified, so it's worth a second look now. Not re-run as part of this update.
 
-**Source:** scholar.lib.vt.edu/VA-news/ROA-Times/issues/1994/rt9401/940122/01220359.htm. Full-page fetch by Jett, relayed 2026-09-13; byline and syndication plausibility independently re-confirmed via this session's own WebSearch the same day.
+**Source:** scholar.lib.vt.edu/VA-news/ROA-Times/issues/1994/rt9401/940122/01220359.htm. Full-page fetch by Jett, relayed 2026-09-13; byline and syndication plausibility independently re-confirmed via WebSearch the same day.
 
 ---
 
-## Supporting facts: three now exist, not five
+## Supporting facts: five, meeting the format for the first time
 
 | Fact | Score | Status |
 |---|---|---|
-| Rutgers: comedy career started on campus (RAC, Livingston Gym, "the Rutgers comedian") | 9/12 | **VERIFIED** — usable, opener-tier |
+| Rutgers: comedy career started on campus (RAC, Livingston Gym, "the Rutgers comedian") | 9/12 | **VERIFIED** |
+| Seton Hall Prep, Class of 1983 | 9/12 | **VERIFIED** — status flipped this round; independent second citation (a 1994 Charlotte Observer article) confirmed to exist, though not itself read |
+| Pre-comedy Wall Street career plan, abandoned on friends' encouragement | 9/12 | **VERIFIED** |
+| Salon.com, 2013, Carson Daly "You're MTV's Bill Bellamy!" | 9/12 | **VERIFIED** — upgraded this round from 7/12 via a direct fetch confirming the quote verbatim |
 | First-ever stand-up performance, college sorority male beauty pageant | 10/12 | **VERIFIED, hero-tier** — used as a second late-arc beat, not the hero |
-| Pre-comedy Wall Street career plan, abandoned on friends' encouragement | 9/12 | **VERIFIED** — usable, mid-arc |
-| Seton Hall Prep, Class of 1983 | 9/12 | UNVERIFIED — second source's independence unconfirmed |
-| Ray Romano opener at Rascals, 1990–91 | 8/12 | UNVERIFIED — self-report only |
-| CA registry filing, "Bill Bellamy Entertainment, Inc." | 8/12 | UNVERIFIED, re-checked 2026-09-13 — listing confirmed real, but not confirmed as *this* Bellamy; left as scored |
-| Baltimore Sun, 1994, two VJ-debut pieces | 7/12 | UNVERIFIED |
-| Salon.com, 2013, Carson Daly "You're MTV's Bill Bellamy!" | 7/12 | UNVERIFIED |
-| Arsenio Hall Show 1992 + Rascal's Comedy Hour + HBO special | 6/12 | UNVERIFIED, below usability bar |
-| X account created April 2009 | 5/12 | UNVERIFIED, below usability bar |
 
-**A note on facts #15 and #16's rescoring:** both moved from below-bar (5/12 each, sourced only to recent retrospective self-retellings) to VERIFIED using the same fetched 1994 article as fact #5 — not new research. Fact #16's score deliberately excludes one additional detail (that the pageant was hosted by Delta Sigma Theta sorority) found via this session's own independent, unfetched search — noted as real upside in `dossier.md` and `sources.md`, not folded into the score. Full rescoring reasoning, including an adversarial re-check of both facts before they were added here, is in `dossier.md`.
-
-**Still four short of the format's five-supporting-facts target** — genuine, honestly reported, not padded with UNVERIFIED material to hit a number.
+**Still UNVERIFIED, excluded from the arc:** Ray Romano opener at Rascals (8/12 — no source exists to relay at all), CA registry filing (8/12 — confirmed this round to be structurally impossible to relay-fetch), Baltimore Sun 1994 pieces (7/12 — relay attempted, came back unresolved on the URLs available). See `relay-request.md` for what's still open and how to actually resolve them.
 
 ---
 
-## Relay request — this round's highest-leverage next fetch
+## Relay request — what's still open
 
-Four UNVERIFIED ≥7 facts remain. The ranked, 4-item list of what a human fetch would be best spent on this round — each with its exact source URL and what a read would need to confirm — is in **`Guests/bill-bellamy/relay-request.md`**, generated per the guardrails as a required output of this brief. Top of that list: the Seton Hall Prep Wikipedia alumni page (fact #3, 9/12) — a single, unpaywalled fetch away from a plausible third hero-tier fact.
+Two UNVERIFIED ≥7 facts remain, both requiring a human to run an actual search rather than pull a URL — see **`Guests/bill-bellamy/relay-request.md`**, regenerated this round with a `fetchable` / `search-required` distinction added after this round exposed the gap (a prior version listed one item that only had a slug, not a real link, and another that was never fetchable by any means). Both remaining items are `search-required`: the CA registry entity number, and the two Baltimore Sun headlines.
 
 ---
 
@@ -62,20 +55,22 @@ Four UNVERIFIED ≥7 facts remain. The ranked, 4-item list of what a human fetch
 
 ## Contacted people and what they said
 
-**Still nobody.** Five drafts remain unsent in `outreach/` (Mark Magnusson, N.F. Mendoza, Matt Cannizzo, Ray Romano, Karen Bellamy). Worth noting: **N.F. Mendoza's draft asked her to resolve the exact contradiction this fetch-relay just resolved independently** — that email is now moot as originally framed and would need a rewrite (a thank-you/confirmation note, or a different ask) before sending, rather than being sent as-is.
+**Still nobody.** Five drafts remain unsent in `outreach/` (Mark Magnusson, N.F. Mendoza, Matt Cannizzo, Ray Romano, Karen Bellamy). N.F. Mendoza's draft asked her to resolve the exact contradiction the fetch-relay already resolved independently — moot as originally framed. Matt Cannizzo's draft (Seton Hall Prep) is also worth revisiting now that fact #3 is VERIFIED via the Wikipedia/Charlotte Observer route rather than needing his confirmation — his ask still stands as a way to find a same-era classmate, just no longer as the only path to verifying the class year itself.
 
 ---
 
 ## Questions, sequenced
 
 1. **Open (grounding, not a scored fact).** "Before anything else — you've worn a lot of hats, MTV, stand-up, film, podcasting. Which one actually feels like the real you?"
-2. **Rutgers (9/12, VERIFIED — mid-tier opener).** "You've told the story of getting your start doing stand-up at Rutgers — the RAC, Livingston Gym, calling yourself 'the Rutgers comedian.' What actually got you on stage there the first time?"
-3. **Wall Street plan (9/12, VERIFIED — building toward the hero).** "There's a 1994 interview where you talk about having planned a Wall Street career before comedy pulled you away. What was that plan, really — and who were the friends who kept telling you to do this instead?"
-4. **Hero fact (10/12, VERIFIED — middle of the arc).** "In that same interview, you joke about your own MTV Jams audition — 'He can read the TelePrompTer!' Is that really how green you felt walking into that job?"
-5. **First stand-up, sorority pageant (10/12, VERIFIED — late-arc beat, not the hero, per sequencing).** "You've said your actual first time on stage, ever, was at a college sorority pageant. What made you say yes to that, and did you have any idea it would turn into a career?"
-6. **Close (mandatory referral ask).** "Last thing — who should I be talking to next?"
+2. **Rutgers (9/12, VERIFIED — opener).** "You've told the story of getting your start doing stand-up at Rutgers — the RAC, Livingston Gym, calling yourself 'the Rutgers comedian.' What actually got you on stage there the first time?" *(Sequencing note: the build plan calls for the first scored fact to be mid-tier, 7–8. No currently-VERIFIED fact sits in that band — the lowest is 9/12. Fact #1 is used here as the best available opener in spirit (lower stakes, straightforward, no live tension) rather than by the letter of the rule; flagged rather than silently ignored.)*
+3. **Seton Hall Prep (9/12, VERIFIED).** "Before Rutgers, you were at Seton Hall Prep, Class of '83. Was comedy already on your mind back then, or did that come later?"
+4. **Wall Street plan (9/12, VERIFIED).** "There's a 1994 interview where you talk about having planned a Wall Street career before comedy pulled you away. What was that plan, really — and who were the friends who kept telling you to do this instead?"
+5. **Hero fact (10/12, VERIFIED — middle of the arc).** "In that same interview, you joke about your own MTV Jams audition — 'He can read the TelePrompTer!' Is that really how green you felt walking into that job?"
+6. **First stand-up, sorority pageant (10/12, VERIFIED — late-arc beat).** "You've said your actual first time on stage, ever, was at a college sorority pageant. What made you say yes to that, and did you have any idea it would turn into a career?"
+7. **Salon/Daly, someone else's POV (9/12, VERIFIED — pre-close).** "Carson Daly's told a story about people mixing the two of you up early on — 'You're MTV's Bill Bellamy!' Did you feel like you two were actually in competition back then, or was it more good-natured than that?"
+8. **Close (mandatory referral ask).** "Last thing — who should I be talking to next?"
 
-This is now a real, sequenced four-fact arc — an opener, two mid-arc supporting beats, and a hero fact placed correctly in the middle rather than at the open or the close. Still missing one to two more supporting beats to hit the format's full five; the relay-request above names the fastest path to another one.
+A full six-fact arc for the first time: an opener, three mid-arc supporting beats, a hero fact correctly placed in the middle, and a "someone else's POV" beat just before the close. The one honest deviation from the sequencing rules is noted inline above (no mid-tier 7–8 fact currently exists to open on).
 
 ---
 
@@ -83,4 +78,4 @@ This is now a real, sequenced four-fact arc — an opener, two mid-arc supportin
 
 **Cut on the hard rules:** none.
 
-**Excluded for other reasons — UNVERIFIED:** every fact in the supporting-facts table above marked UNVERIFIED.
+**Excluded for other reasons — UNVERIFIED:** Ray Romano/Rascals opener (8/12, no source to relay), CA registry filing (8/12, structurally not relay-able), Baltimore Sun pieces (7/12, relay attempted and unresolved).
