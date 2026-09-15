@@ -1,6 +1,6 @@
 # Relay Request — Bill Bellamy
 
-Regenerated 2026-09-13 (fifth round). The hero fact's date question (previously this list's #1 item) is now **closed, not open** — Jett's direct-fetch and Wayback-availability checks found the January 2, 1994 LA Times citation unverifiable by every method tried, consistent with a fabricated citation rather than a real second document (see `dossier.md` fact #5). It's removed from this list rather than carried forward, since further relay effort would mean chasing a citation the evidence says likely doesn't exist. Four items remain, one genuinely `fetchable`, three `search-required`.
+Regenerated 2026-09-15 (sixth round, after the M7a Claims sweep). The hero fact's date question is closed (see `dossier.md` fact #5). The Claims sweep found one new tension-flagged claim (`claims.md` Claim #1) that traces to the same underlying "booty call" story as fact #19 — merged into one relay item below rather than listed twice, since a single fetch can resolve both. Four items remain, two genuinely `fetchable`, two `search-required`.
 
 ---
 
@@ -14,13 +14,13 @@ Regenerated 2026-09-13 (fifth round). The hero fact's date question (previously 
 
 ---
 
-## 2. Fact #19 — coining "booty call," Mike Tyson-arrest origin (currently 7/12, UNVERIFIED)
+## 2. Fact #19 + Claim #1 (merged) — the "booty call" origin: Mike Tyson inspiration AND where it was first said
 
-**Category: `fetchable`.** `thegrio.com`'s August 2021 coverage is a real, complete URL and the likely original press hit behind this story's several outlet pickups — search "Bill Bellamy regrets not trademarking booty call TheGrio" to recover the exact article URL if this one has moved (not independently re-confirmed as still live this round).
+**Category: `fetchable`.** Two real, complete URLs, both from the same Aug 2021 press round: `https://www.cracked.com/article_41824_bill-bellamy-remembers-inventing-the-term-booty-call.html` (source of `claims.md` Claim #1 — the Uptown Comedy Club/HBO-executives-in-the-room account) and TheGrio's Aug 2021 coverage (source of `dossier.md` fact #19's Mike Tyson-arrest account — exact URL needs a quick re-confirmation search, "Bill Bellamy regrets not trademarking booty call TheGrio," if this one has moved).
 
-**What a fetch would need to confirm:** whether this is genuinely the original interview (making every other outlet's coverage a pickup, not independent corroboration, as currently scored) or itself a pickup of something earlier — and whether the Mike Tyson-arrest timeline (1991 arrest) lines up with *Def Comedy Jam All-Stars Vol. 3*'s actual air date. If the source checks out and nothing contradicts the timeline, Verification could move from 1 toward 2–3, pushing the total to **9–10/12** — a plausible third hero-tier fact given this fact's Specificity is already scored at 3.
+**What a fetch would need to confirm — two things at once:** (1) whether the Mike Tyson-arrest inspiration (fact #19) is real and holds up against the Def Comedy Jam All-Stars Vol. 3 air date; (2) whether the phrase was first said publicly at Uptown Comedy Club (Claim #1) rather than "during a joke on Def Comedy Jam" as fact #19 is currently worded — these aren't necessarily contradictory in substance (the joke's content could be Tyson-inspired regardless of which stage it debuted on), but the *location* claim is a specific, checkable discrepancy worth resolving before either version is used on air. One fetch of either page, ideally both, would move fact #19's Verification from 1 toward 2–3 (pushing its total to 9–10/12, a plausible third hero-tier fact) and would resolve or dissolve Claim #1's tension flag.
 
-**Why it ranks #2:** real upside (the highest ceiling of anything on this list, including hero-tier), but ranked behind #1 since the URL itself needs a quick re-confirmation before a fetch, rather than being ready to pull immediately.
+**Why it ranks #2:** the highest combined ceiling on this list (a possible third hero-tier fact, plus a resolved claim), merged into one ask rather than two separate ones since they trace to the same interview round.
 
 ---
 
@@ -53,5 +53,6 @@ Regenerated 2026-09-13 (fifth round). The hero fact's date question (previously 
 ## Left off this list, and why
 
 - **Fact #2 (Ray Romano/Rascals opener, 8/12)** — no source of either kind exists: not `fetchable` (no URL), not `search-required` (no named place to search — every version is Bellamy's own self-report). Resolving this needs a person (Ray Romano or the venue's former owner — see `people.md`), not a fetch or a search.
+- **`claims.md` Claim #2 (Ray Romano/Rascals story, checked for variation)** — not on this list because the Claims sweep found no tension and Verification is only 1 (fails the usability threshold); not worth a relay slot for the same reason fact #2 above isn't.
 - **The Delta Sigma Theta detail on fact #16, and the Rutgers-location detail on the same fact from the 2012 NPR piece** — neither is on this list because fact #16 is already VERIFIED at hero-tier without them; both are flagged as upside in the dossier, not blockers worth a relay slot.
 - **Facts #6, #8, #10, #11–14, #17–18, #20, #22** — already below the ≥7 usability bar; not worth relay effort of any kind regardless of reachability.
